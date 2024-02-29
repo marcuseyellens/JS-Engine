@@ -1,6 +1,6 @@
-## SlowJS
+## JS_Engine
 
-SlowJS - QuickJS is quick but I can make it slow!
+JS_Engine - Extends for QuickJS
 
 Learning the awesome [QuickJS](https://github.com/bellard/quickjs/blob/2788d71e823b522b178db3b3660ce93689534e6d/quickjs.c) by extending it with below functionalities:
 
